@@ -1,0 +1,17 @@
+{
+  "name": "fruitbasket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.15",
+    "sinon": "^9.0.2",
+    "mocha": "^7.1.2"
+  }
+}

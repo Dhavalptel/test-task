@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1ceb8c95-736f-4da3-86d9-86d55893b38a",
+    "total_fruits": 3,
+    "total_weight": 5,
+    "fruit_counts": [
+      {
+        "type": "apple",
+        "count": 1
+      },
+      {
+        "type": "pear",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "1ceb8c95-736f-4da3-86d9-86d55893b38a",
+    "total_fruits": 2,
+    "total_weight": 3.5,
+    "fruit_counts": [
+      {
+        "type": "orange",
+        "count": 1
+      }
+    ]
+  }
+]
